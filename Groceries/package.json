@@ -1,6 +1,8 @@
 {
     "dependencies": {
-        "tns-core-modules": "1.4.0"
+        "tns-core-modules": "1.4.0",
+        "email-validator": "1.0.4",
+        "nativescript-social-share": "1.1.2"
     },
     "devDependencies": {}
 }
